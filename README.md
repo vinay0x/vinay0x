@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Vinay!
-I'm a Software Engineer at [BigBinary](https://www.bigbinary.com). 
+I handle product development at [BigBinary](https://www.bigbinary.com). 
 <br/>
 
 **Connect with me on**
