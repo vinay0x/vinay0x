@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Vinay!
-I handle product development at [BigBinary](https://www.bigbinary.com). 
+I'm a VP at [BigBinary](https://www.bigbinary.com) and I handle product development for [neeto](https://neeto.com). 
 <br/>
 
 **Connect with me on**
