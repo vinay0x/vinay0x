@@ -1,3 +1,3 @@
 ### Hi there 👋 I'm Vinay!
-I'm a VP at [BigBinary](https://www.bigbinary.com) and I handle product development for [neeto](https://neeto.com). 
+I'm helping to built the best community platform at [Circle](https://circle.so)
 <br/>
