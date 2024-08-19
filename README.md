@@ -1,3 +1,3 @@
-### Hi there 👋 I'm Vinay!
-I'm helping to built the best community platform at [Circle](https://circle.so)
+### Hi there 👋 I'm Vinay
+I'm currently helping build the best community platform at [Circle](https://circle.so)
 <br/>
